@@ -1,3 +1,3 @@
 # Weather
-This is a console application which tells the current temperature in Gurgaon Haryana.
+This is a console application which tells the current weather conditions. \n
 It uses python module Beautiful Soup for website scraping from website (https://www.timeanddate.com)
